@@ -1,5 +1,4 @@
 # / Docs
-//Github group
 ## /datascraper (If time)
 ## /parser (npm package)
 - /jsonstruktur.md
